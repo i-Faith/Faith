@@ -35,5 +35,5 @@
 
 
 ### Lets Connect
-https://www.linkedin.com/in/faith-cheptoo-025779304/
-https://github.com/i-Faith
+- Linkedin - https://www.linkedin.com/in/faith-cheptoo-025779304/
+- Github- https://github.com/i-Faith
