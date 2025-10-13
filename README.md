@@ -1,4 +1,4 @@
-###👋 Hi there, I'm Faith Cheptoo
+### 👋 Hi there, I'm Faith Cheptoo
 - Data Science Student | Health Science Background | Passionate about Data & Analytics
 
 - I am passionate about exploring how data can transform healthcare and decision-making.  
