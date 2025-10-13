@@ -1,8 +1,10 @@
-### 👋 Hi there, I'm Faith Cheptoo
-- Data Science Student | Health Science Background | Passionate about Data & Analytics
+## 👋 Hi there, I'm Faith Cheptoo
 
+
+- Data Science Student | Health Science Background | Passionate about Data & Analytics
 - I am passionate about exploring how data can transform healthcare and decision-making.  
 - Currently learning and building projects in data analytics and machine learning.
+
 
 
 ### 🌱Current Focus
@@ -16,7 +18,9 @@
 - Strengthening my data cleaning and analysis skills through hands-on projects
 
 - Expanding my understanding of machine learning concepts and applications
-- 
+
+
+
 
   ### 🛠️ Skills
 
@@ -29,6 +33,8 @@
 - Attention to Detail & Continuous Learning — Ongoing projects in data analytics and health data research
 
 - Communication, Collaboration & Teamwork — Experience working with peers on data and software projects
+
+
   
 
 ### 📌 Featured Projects
