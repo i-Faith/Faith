@@ -1,3 +1,7 @@
+
+### About Me  
+I’m currently studying Software Development at Power Learn Academy and pursuing my passion for using data to solve health challenges.  
+
 ## 👋 Hi there, I'm Faith Cheptoo
 
 
@@ -38,8 +42,6 @@
   
 
 ### 📌 Featured Projects
- - LEUKEMIA CLASSIFICATION AGENT
- https://github.com/i-Faith/leukemia_ai_agent
 
 ### Lets Connect
 - Linkedin - https://www.linkedin.com/in/faith-cheptoo-025779304/
